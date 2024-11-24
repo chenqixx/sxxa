@@ -92,3 +92,4 @@
 9.   git remote -rm hello    删除一个远程仓库
 10.   git remote         查询远程都有哪些仓库
 11.   git remote -v      查询远程仓库详情地址url
+12.   echo 203.208.40.66 translate.googleapis.com > >|C:\Windows\System32\drivers\etc\hosts & ipconfig/flushdns > nul
